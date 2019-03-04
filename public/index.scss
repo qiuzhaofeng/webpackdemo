@@ -1,0 +1,10 @@
+$header-color: #f90;
+#header {
+  display: flex;
+  $width: 100px;
+  width: $width;
+  color: $header-color;
+}
+body {
+  background: url("./timg.jpg")
+}
